@@ -7,18 +7,8 @@
 
 /*         Summary
 <<<<<<<<<<<<<<>>>>>>>>>>>>>>
-This script was submitted 
-for a project in March 2022. 
-Very basic Algorithms.
+This script uses Gaussians Distrubution Algorithms.
 
-It is a strictly hard coded,
-per the assignment, but there
-is more to come.
-
-PS doubles are more accurate than floats in some cases
-*/
-
-/*
 Gaussians distribution: 1/(sqrt(2*pi)*SDi = probablity. 
 The probablity that Attribute i (Xi) leads to the correct outcome k (Y=Yk)
 FOR CONTINOUS VALUES
