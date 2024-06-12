@@ -1,4 +1,5 @@
 This script is a Minor Upsupervised AI using the Gaussian Algorithm.
+Every X value is continious and a double, while Y is either 1 or -1
 It contains the following methods with the following uses:
 
 //Reads the training file when training == true, and read the testing file when testing == false
